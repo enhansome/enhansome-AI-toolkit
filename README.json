@@ -1,7 +1,2378 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "The latest trending open-source AI tools that are shaping 2025, focusing on smaller, smarter models and improved collaboration:",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Aider",
+              "description": "AI pair programming in your terminal https://github.com/paul-gauthier/aider 15k 📈",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 638629097,
+                "language": "Python",
+                "last_commit": "2026-05-22T14:02:20Z",
+                "owner": "Aider-AI",
+                "repo": "aider",
+                "stars": 48453
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zed",
+              "description": "High-performance multiplayer code editor with AI https://github.com/zed-industries/zed 45k 🚀",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 340547520,
+                "language": "Rust",
+                "last_commit": "2026-08-24T13:21:33Z",
+                "owner": "zed-industries",
+                "repo": "zed",
+                "stars": 89140
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔥 Hot New Releases"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LLaMA 4",
+              "description": "Latest open-source large language model from Meta https://github.com/facebookresearch/llama 180k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 601538369,
+                "language": "Python",
+                "last_commit": "2025-01-26T21:42:26Z",
+                "owner": "meta-llama",
+                "repo": "llama",
+                "stars": 59573
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mixtral-8x22B",
+              "description": "Sparse mixture of experts model https://github.com/mistralai/mistral-src 40k",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 697302510,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-06-16T15:40:44Z",
+                "owner": "mistralai",
+                "repo": "mistral-inference",
+                "stars": 10830
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🎯 Most Starred in 2025"
+        }
+      ],
+      "title": "🆕 2025 Trending Tools"
+    },
+    {
+      "description": "Tools are categorized by domain. Each includes a brief description, GitHub URL, and approximate stars (as of August 2025). Segregated into Beginner (simple setup, tutorials-focused) and Advanced (scalable, customizable) sub-sections.",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "scikit-learn",
+                  "description": "Simple machine learning in Python for classification, regression, and clustering https://github.com/scikit-learn/scikit-learn 60k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 843222,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T12:19:11Z",
+                    "owner": "scikit-learn",
+                    "repo": "scikit-learn",
+                    "stars": 67048
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Keras",
+                  "description": "User-friendly neural networks API on top of TensorFlow or PyTorch https://github.com/keras-team/keras 61k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 33015583,
+                    "language": "Python",
+                    "last_commit": "2026-08-21T23:10:41Z",
+                    "owner": "keras-team",
+                    "repo": "keras",
+                    "stars": 64249
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Beginner"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TensorFlow",
+                  "description": "End-to-end platform for large-scale ML with strong ecosystem support https://github.com/tensorflow/tensorflow 183k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 45717250,
+                    "language": "C++",
+                    "last_commit": "2026-08-24T14:22:47Z",
+                    "owner": "tensorflow",
+                    "repo": "tensorflow",
+                    "stars": 197385
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PyTorch",
+                  "description": "Dynamic neural networks with GPU acceleration for research and production https://github.com/pytorch/pytorch 81k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 65600975,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T14:34:04Z",
+                    "owner": "pytorch",
+                    "repo": "pytorch",
+                    "stars": 102575
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Advanced"
+            }
+          ],
+          "description": "Foundational libraries for building and training ML models.",
+          "node_type": "group",
+          "title": "Machine Learning Frameworks"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Pandas",
+                  "description": "Easy data manipulation and analysis with DataFrames https://github.com/pandas-dev/pandas 43k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 858127,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T07:25:54Z",
+                    "owner": "pandas-dev",
+                    "repo": "pandas",
+                    "stars": 49559
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NumPy",
+                  "description": "Fundamental array computing and linear algebra operations https://github.com/numpy/numpy 28k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 908607,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T09:16:17Z",
+                    "owner": "numpy",
+                    "repo": "numpy",
+                    "stars": 32595
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Beginner"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Dask",
+                  "description": "Parallel computing for large datasets, integrates with Pandas/NumPy https://github.com/dask/dask 12k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 28782747,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T14:33:18Z",
+                    "owner": "dask",
+                    "repo": "dask",
+                    "stars": 13895
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Advanced"
+            }
+          ],
+          "description": "Tools for handling and preparing data.",
+          "node_type": "group",
+          "title": "Data Processing & Management"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Chroma",
+                  "description": "Simple embedding database for local LLM apps https://github.com/chroma-core/chroma 15k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 546206616,
+                    "language": "Rust",
+                    "last_commit": "2026-08-22T06:36:05Z",
+                    "owner": "chroma-core",
+                    "repo": "chroma",
+                    "stars": 29133
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "FAISS",
+                  "description": "Efficient similarity search library from Facebook AI https://github.com/facebookresearch/faiss 35k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 81227005,
+                    "language": "C++",
+                    "last_commit": "2026-08-19T22:06:01Z",
+                    "owner": "facebookresearch",
+                    "repo": "faiss",
+                    "stars": 40801
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Beginner"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Weaviate",
+                  "description": "Vector database with GraphQL and modular plugins https://github.com/weaviate/weaviate 15k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 55072677,
+                    "language": "Go",
+                    "last_commit": "2026-08-24T14:18:38Z",
+                    "owner": "weaviate",
+                    "repo": "weaviate",
+                    "stars": 16749
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Qdrant",
+                  "description": "High-performance vector search with filtering support https://github.com/qdrant/qdrant 20k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 268163609,
+                    "language": "Rust",
+                    "last_commit": "2026-08-24T13:23:45Z",
+                    "owner": "qdrant",
+                    "repo": "qdrant",
+                    "stars": 34157
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Milvus",
+                  "description": "Scalable vector database for billion-scale similarity search https://github.com/milvus-io/milvus 30k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 208728772,
+                    "language": "Go",
+                    "last_commit": "2026-08-24T13:35:22Z",
+                    "owner": "milvus-io",
+                    "repo": "milvus",
+                    "stars": 45769
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Advanced"
+            }
+          ],
+          "description": "Open-source storage for embeddings and similarity search.",
+          "node_type": "group",
+          "title": "Vector Databases"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Langflow",
+                  "description": "No-code visual builder for LLM workflows https://github.com/langflow-ai/langflow 15k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 599320067,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T14:33:30Z",
+                    "owner": "langflow-ai",
+                    "repo": "langflow",
+                    "stars": 153620
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Flowise",
+                  "description": "Drag-and-drop UI for LLM chains https://github.com/FlowiseAI/Flowise 25k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 621803253,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-13T12:38:19Z",
+                    "owner": "FlowiseAI",
+                    "repo": "Flowise",
+                    "stars": 55389
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Beginner"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "LangChain",
+                  "description": "Modular framework for LLM apps and agents https://github.com/langchain-ai/langchain 120k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 552661142,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T14:31:31Z",
+                    "owner": "langchain-ai",
+                    "repo": "langchain",
+                    "stars": 144894
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LlamaIndex",
+                  "description": "Data ingestion and querying for LLMs https://github.com/run-llama/llama_index 50k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 560704231,
+                    "language": "Python",
+                    "last_commit": "2026-08-20T15:46:41Z",
+                    "owner": "run-llama",
+                    "repo": "llama_index",
+                    "stars": 51840
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Haystack",
+                  "description": "Production-ready NLP pipelines https://github.com/deepset-ai/haystack 18k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 221654678,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T14:27:08Z",
+                    "owner": "deepset-ai",
+                    "repo": "haystack",
+                    "stars": 26304
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DSPy",
+                  "description": "Programmatic prompt optimization https://github.com/stanfordnlp/dspy 15k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 587050620,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T13:44:14Z",
+                    "owner": "stanfordnlp",
+                    "repo": "dspy",
+                    "stars": 37559
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Semantic Kernel",
+                  "description": "AI integration SDK for .NET/Python/Java https://github.com/microsoft/semantic-kernel 8k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 607289185,
+                    "language": "C#",
+                    "last_commit": "2026-08-21T02:44:34Z",
+                    "owner": "microsoft",
+                    "repo": "semantic-kernel",
+                    "stars": 28489
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Advanced"
+            }
+          ],
+          "description": "For building AI pipelines and agents.",
+          "node_type": "group",
+          "title": "Orchestration & Workflow Frameworks"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "OpenCV",
+                  "description": "Core library for image/video processing and basic CV tasks https://github.com/opencv/opencv 75k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 5108051,
+                    "language": "C++",
+                    "last_commit": "2026-08-24T12:06:23Z",
+                    "owner": "opencv",
+                    "repo": "opencv",
+                    "stars": 90577
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Beginner"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Ultralytics YOLO",
+                  "description": "State-of-the-art object detection and segmentation models https://github.com/ultralytics/ultralytics 30k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 535360445,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T14:06:14Z",
+                    "owner": "ultralytics",
+                    "repo": "ultralytics",
+                    "stars": 60916
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Detectron2",
+                  "description": "Facebook AI's framework for object detection and segmentation https://github.com/facebookresearch/detectron2 30k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 206660580,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T05:38:53Z",
+                    "owner": "facebookresearch",
+                    "repo": "detectron2",
+                    "stars": 34685
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Advanced"
+            }
+          ],
+          "description": "Libraries for image processing and vision tasks.",
+          "node_type": "group",
+          "title": "Computer Vision"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "NLTK",
+                  "description": "Toolkit for basic NLP tasks like tokenization and stemming https://github.com/nltk/nltk 13k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 299862,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T14:26:13Z",
+                    "owner": "nltk",
+                    "repo": "nltk",
+                    "stars": 14702
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "spaCy",
+                  "description": "Efficient NLP library for entity recognition and dependency parsing https://github.com/explosion/spaCy 29k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21467110,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T08:26:10Z",
+                    "owner": "explosion",
+                    "repo": "spaCy",
+                    "stars": 33839
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Beginner"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Transformers",
+                  "description": "Hugging Face library for state-of-the-art NLP models https://github.com/huggingface/transformers 130k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 155220641,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T14:07:06Z",
+                    "owner": "huggingface",
+                    "repo": "transformers",
+                    "stars": 164394
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Flair",
+                  "description": "Framework for advanced NLP with pre-trained embeddings https://github.com/flairNLP/flair 14k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 136914524,
+                    "language": "Python",
+                    "last_commit": "2025-10-27T18:11:31Z",
+                    "owner": "flairNLP",
+                    "repo": "flair",
+                    "stars": 14384
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Advanced"
+            }
+          ],
+          "description": "Tools for text analysis and language models.",
+          "node_type": "group",
+          "title": "Natural Language Processing (NLP)"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Stable-Baselines3",
+                  "description": "Reliable RL algorithms built on PyTorch https://github.com/DLR-RM/stable-baselines3 8k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 261372860,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T16:40:34Z",
+                    "owner": "DLR-RM",
+                    "repo": "stable-baselines3",
+                    "stars": 13718
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Beginner"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Ray RLlib",
+                  "description": "Scalable RL library for distributed training https://github.com/ray-project/ray 32k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 71932349,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T12:25:44Z",
+                    "owner": "ray-project",
+                    "repo": "ray",
+                    "stars": 43598
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "OpenRL",
+                  "description": "Unified framework for single/multi-agent RL https://github.com/OpenRL-Lab/openrl 1k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 626830039,
+                    "language": "Python",
+                    "last_commit": "2024-09-06T05:48:27Z",
+                    "owner": "OpenRL-Lab",
+                    "repo": "openrl",
+                    "stars": 841
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Advanced"
+            }
+          ],
+          "description": "Frameworks for agent training and decision-making.",
+          "node_type": "group",
+          "title": "Reinforcement Learning (RL)"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MLflow",
+                  "description": "Track experiments, package code, and deploy models https://github.com/mlflow/mlflow 18k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 136202695,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T12:12:03Z",
+                    "owner": "mlflow",
+                    "repo": "mlflow",
+                    "stars": 27650
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Beginner"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Kubeflow",
+                  "description": "Kubernetes-native platform for ML pipelines https://github.com/kubeflow/kubeflow 14k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 112647343,
+                    "language": null,
+                    "last_commit": "2026-08-21T18:25:34Z",
+                    "owner": "kubeflow",
+                    "repo": "kubeflow",
+                    "stars": 15827
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DVC",
+                  "description": "Version control for data and ML models https://github.com/iterative/dvc 13k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 83878269,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T02:03:27Z",
+                    "owner": "treeverse",
+                    "repo": "dvc",
+                    "stars": 15838
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Advanced"
+            }
+          ],
+          "description": "Tools for ML operations, deployment, and monitoring.",
+          "node_type": "group",
+          "title": "MLOps"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "pdfplumber",
+                  "description": "Extract text and tables from PDFs https://github.com/jsvine/pdfplumber 6k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 41279279,
+                    "language": "Python",
+                    "last_commit": "2026-08-06T00:46:50Z",
+                    "owner": "jsvine",
+                    "repo": "pdfplumber",
+                    "stars": 10687
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Camelot",
+                  "description": "Tabular data extraction from PDFs https://github.com/camelot-dev/camelot 2k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 194679925,
+                    "language": "Python",
+                    "last_commit": "2026-08-06T07:43:57Z",
+                    "owner": "camelot-dev",
+                    "repo": "camelot",
+                    "stars": 3810
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Beginner"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Docling",
+                  "description": "AI-powered PDF to JSON/Markdown conversion https://github.com/docling-project/docling 1k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 826168160,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T14:14:53Z",
+                    "owner": "docling-project",
+                    "repo": "docling",
+                    "stars": 65478
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PyMuPDF",
+                  "description": "High-performance PDF parsing https://github.com/pymupdf/PyMuPDF 5k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 6105714,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T13:55:55Z",
+                    "owner": "pymupdf",
+                    "repo": "PyMuPDF",
+                    "stars": 10555
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PDF.js",
+                  "description": "JavaScript-based PDF rendering and extraction https://github.com/mozilla/pdf.js 50k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1663468,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-23T15:16:25Z",
+                    "owner": "mozilla",
+                    "repo": "pdf.js",
+                    "stars": 53774
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Advanced"
+            }
+          ],
+          "description": "For extracting data from PDFs.",
+          "node_type": "group",
+          "title": "PDF Extraction Tools"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "PrivateGPT",
+                  "description": "Local document interaction with LLMs https://github.com/imartinez/privateGPT 50k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 635240594,
+                    "language": "Python",
+                    "last_commit": "2026-08-21T13:16:05Z",
+                    "owner": "zylon-ai",
+                    "repo": "private-gpt",
+                    "stars": 57461
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AnythingLLM",
+                  "description": "All-in-one local LLM app for RAG https://github.com/Mintplex-Labs/anything-llm 20k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 649170660,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-22T03:50:06Z",
+                    "owner": "Mintplex-Labs",
+                    "repo": "anything-llm",
+                    "stars": 65141
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Beginner"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "RAGFlow",
+                  "description": "Deep document understanding for RAG https://github.com/infiniflow/ragflow 15k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 730534580,
+                    "language": "Go",
+                    "last_commit": "2026-08-24T13:22:18Z",
+                    "owner": "infiniflow",
+                    "repo": "ragflow",
+                    "stars": 89151
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Verba",
+                  "description": "RAG chatbot with Weaviate integration https://github.com/weaviate/Verba 5k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 672002598,
+                    "language": "Python",
+                    "last_commit": "2026-06-08T09:25:18Z",
+                    "owner": "weaviate",
+                    "repo": "Verba",
+                    "stars": 7711
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Quivr",
+                  "description": "GenAI second brain for document management https://github.com/QuivrHQ/quivr 35k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 640079149,
+                    "language": "Python",
+                    "last_commit": "2025-07-09T12:55:23Z",
+                    "owner": "QuivrHQ",
+                    "repo": "quivr",
+                    "stars": 39418
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Jina",
+                  "description": "Multimodal neural search for RAG https://github.com/jina-ai/jina 25k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 240315046,
+                    "language": "Python",
+                    "last_commit": "2025-03-24T13:59:54Z",
+                    "owner": "jina-ai",
+                    "repo": "serve",
+                    "stars": 21863
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "txtai",
+                  "description": "Embeddings database for semantic search https://github.com/neuml/txtai 10k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 286301447,
+                    "language": "Python",
+                    "last_commit": "2026-08-23T23:15:58Z",
+                    "owner": "neuml",
+                    "repo": "txtai",
+                    "stars": 12903
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Advanced"
+            }
+          ],
+          "description": "For enhancing LLMs with external data.",
+          "node_type": "group",
+          "title": "Retrieval-Augmented Generation (RAG)"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Ragas",
+                  "description": "Framework for evaluating RAG pipelines https://github.com/explodinggradients/ragas 8k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 637924634,
+                    "language": "Python",
+                    "last_commit": "2026-02-24T07:47:19Z",
+                    "owner": "vibrantlabsai",
+                    "repo": "ragas",
+                    "stars": 15450
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Beginner"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Phoenix",
+                  "description": "Observability for LLMs and vision models https://github.com/Arize-ai/phoenix 5k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 564072810,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T14:31:18Z",
+                    "owner": "Arize-ai",
+                    "repo": "phoenix",
+                    "stars": 11168
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DeepEval",
+                  "description": "Unit testing for LLM outputs https://github.com/confident-ai/deepeval 8k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 676829188,
+                    "language": "Python",
+                    "last_commit": "2026-08-21T19:24:44Z",
+                    "owner": "confident-ai",
+                    "repo": "deepeval",
+                    "stars": 17818
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TruLens",
+                  "description": "Tracking and evaluation for LLM experiments https://github.com/truera/trulens 2k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 309504885,
+                    "language": "Python",
+                    "last_commit": "2026-08-21T16:57:30Z",
+                    "owner": "truera",
+                    "repo": "trulens",
+                    "stars": 3520
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Advanced"
+            }
+          ],
+          "description": "For assessing AI models.",
+          "node_type": "group",
+          "title": "Evaluation & Testing"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Phoenix",
+                  "description": "ML observability tool https://github.com/Arize-ai/phoenix 5k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 564072810,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T14:31:18Z",
+                    "owner": "Arize-ai",
+                    "repo": "phoenix",
+                    "stars": 11168
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Beginner"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Evidently AI",
+                  "description": "Monitoring for ML model performance https://github.com/evidentlyai/evidently 5k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 315977578,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-08-05T16:29:57Z",
+                    "owner": "evidentlyai",
+                    "repo": "evidently",
+                    "stars": 7840
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Advanced"
+            }
+          ],
+          "description": "For production AI systems.",
+          "node_type": "group",
+          "title": "Monitoring & Observability"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "AutoGPT",
+                  "description": "Autonomous AI agent for task automation using LLMs https://github.com/Significant-Gravitas/AutoGPT 160k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 614765452,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T14:34:51Z",
+                    "owner": "Significant-Gravitas",
+                    "repo": "AutoGPT",
+                    "stars": 186849
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BabyAGI",
+                  "description": "Task-driven autonomous agent inspired by BabyAGI https://github.com/yoheinakajima/babyagi 18k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 622737738,
+                    "language": "Python",
+                    "last_commit": "2026-01-31T05:05:45Z",
+                    "owner": "yoheinakajima",
+                    "repo": "babyagi",
+                    "stars": 22356
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Beginner"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CrewAI",
+                  "description": "Framework for orchestrating role-playing AI agents https://github.com/joaomdmoura/crewAI 20k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 710601088,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T13:16:05Z",
+                    "owner": "crewAIInc",
+                    "repo": "crewAI",
+                    "stars": 57554
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MetaGPT",
+                  "description": "Multi-agent framework simulating a software company https://github.com/geekan/MetaGPT 40k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 660551251,
+                    "language": "Python",
+                    "last_commit": "2026-01-21T10:12:33Z",
+                    "owner": "FoundationAgents",
+                    "repo": "MetaGPT",
+                    "stars": 69996
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "OpenHands",
+                  "description": "AI agents for software development tasks https://github.com/All-Hands-AI/OpenHands 10k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 771302083,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-24T14:26:36Z",
+                    "owner": "OpenHands",
+                    "repo": "OpenHands",
+                    "stars": 84945
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Advanced"
+            }
+          ],
+          "description": "Frameworks for building autonomous AI agents.",
+          "node_type": "group",
+          "title": "AI Agents"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Ollama",
+                  "description": "Run and manage local LLMs easily https://github.com/ollama/ollama 70k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 658928958,
+                    "language": "Go",
+                    "last_commit": "2026-08-23T18:40:59Z",
+                    "owner": "ollama",
+                    "repo": "ollama",
+                    "stars": 179320
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Stable Diffusion WebUI",
+                  "description": "User-friendly web interface for Stable Diffusion image generation https://github.com/AUTOMATIC1111/stable-diffusion-webui 130k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 527591471,
+                    "language": "Python",
+                    "last_commit": "2026-03-02T07:00:53Z",
+                    "owner": "AUTOMATIC1111",
+                    "repo": "stable-diffusion-webui",
+                    "stars": 164633
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Beginner"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Diffusers",
+                  "description": "State-of-the-art diffusion models for image and audio generation https://github.com/huggingface/diffusers 25k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 498011141,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T14:31:23Z",
+                    "owner": "huggingface",
+                    "repo": "diffusers",
+                    "stars": 34366
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "llama.cpp",
+                  "description": "Efficient LLM inference in C/C++ https://github.com/ggerganov/llama.cpp 60k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 612354784,
+                    "language": "C++",
+                    "last_commit": "2026-08-24T14:21:04Z",
+                    "owner": "ggml-org",
+                    "repo": "llama.cpp",
+                    "stars": 125405
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "InvokeAI",
+                  "description": "Creative engine for Stable Diffusion models https://github.com/invoke-ai/InvokeAI 22k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 525592995,
+                    "language": "Python",
+                    "last_commit": "2026-08-22T23:25:08Z",
+                    "owner": "invoke-ai",
+                    "repo": "InvokeAI",
+                    "stars": 27963
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Advanced"
+            }
+          ],
+          "description": "Tools for generating text, images, and other content.",
+          "node_type": "group",
+          "title": "Generative AI"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "fastai",
+                  "description": "High-level deep learning library on PyTorch for quick results https://github.com/fastai/fastai 26k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 102973646,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-08-15T09:18:08Z",
+                    "owner": "fastai",
+                    "repo": "fastai",
+                    "stars": 28120
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Beginner"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "JAX",
+                  "description": "Composable transformations for high-performance ML https://github.com/google/jax 30k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 154739597,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T14:28:35Z",
+                    "owner": "jax-ml",
+                    "repo": "jax",
+                    "stars": 36209
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "tinygrad",
+                  "description": "Minimalist deep learning framework https://github.com/tinygrad/tinygrad 25k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 305144746,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T14:26:15Z",
+                    "owner": "tinygrad",
+                    "repo": "tinygrad",
+                    "stars": 33497
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Deeplearning4j",
+                  "description": "JVM-based deep learning suite for enterprise https://github.com/deeplearning4j/deeplearning4j 13k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 14734876,
+                    "language": "Java",
+                    "last_commit": "2026-08-24T12:31:22Z",
+                    "owner": "deeplearning4j",
+                    "repo": "deeplearning4j",
+                    "stars": 14244
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Advanced"
+            }
+          ],
+          "description": "Libraries for advanced neural network development.",
+          "node_type": "group",
+          "title": "Deep Learning"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "PEFT",
+                  "description": "Parameter-efficient fine-tuning for large models https://github.com/huggingface/peft 15k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 570384908,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T14:25:21Z",
+                    "owner": "huggingface",
+                    "repo": "peft",
+                    "stars": 21590
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "bitsandbytes",
+                  "description": "K-bit quantization for accessible LLMs https://github.com/TimDettmers/bitsandbytes 5k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 373674258,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T15:51:24Z",
+                    "owner": "bitsandbytes-foundation",
+                    "repo": "bitsandbytes",
+                    "stars": 8436
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Beginner"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "vLLM",
+                  "description": "High-throughput LLM inference engine https://github.com/vllm-project/vllm 25k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 599547518,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T14:29:45Z",
+                    "owner": "vllm-project",
+                    "repo": "vllm",
+                    "stars": 89872
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Flash Attention",
+                  "description": "Fast and memory-efficient attention mechanism https://github.com/Dao-AILab/flash-attention 12k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 494232964,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T08:12:39Z",
+                    "owner": "Dao-AILab",
+                    "repo": "flash-attention",
+                    "stars": 24769
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "exllamav2",
+                  "description": "Fast inference library for LLMs on consumer GPUs https://github.com/turboderp/exllamav2 6k",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 684980325,
+                    "language": "Python",
+                    "last_commit": "2026-03-04T13:12:20Z",
+                    "owner": "turboderp-org",
+                    "repo": "exllamav2",
+                    "stars": 4611
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Advanced"
+            }
+          ],
+          "description": "Frameworks for optimizing and architecting large language models.",
+          "node_type": "group",
+          "title": "Advanced LLM Architectures"
+        }
+      ],
+      "title": "AI Domains and Tools"
+    },
+    {
+      "description": "Tools that help developers write, debug, and optimize code using AI.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tabnine",
+              "description": "AI code completion tool https://github.com/codota/TabNine 2k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156332497,
+                "language": "Shell",
+                "last_commit": "2025-09-04T10:40:43Z",
+                "owner": "codota",
+                "repo": "TabNine",
+                "stars": 10774
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Beginner"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Aider",
+              "description": "AI pair programming in your terminal https://github.com/paul-gauthier/aider 20k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 638629097,
+                "language": "Python",
+                "last_commit": "2026-05-22T14:02:20Z",
+                "owner": "Aider-AI",
+                "repo": "aider",
+                "stars": 48453
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Continue",
+              "description": "Open-source autopilot for VS Code and JetBrains https://github.com/continuedev/continue 18k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 644686905,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:22:36Z",
+                "owner": "continuedev",
+                "repo": "continue",
+                "stars": 35609
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CodeT5",
+              "description": "Identifier-aware unified pre-trained encoder-decoder models https://github.com/salesforce/CodeT5 2k",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 396609706,
+                "language": "Python",
+                "last_commit": "2026-06-25T16:27:18Z",
+                "owner": "salesforce",
+                "repo": "CodeT5",
+                "stars": 3094
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WizardCoder",
+              "description": "Code generation model https://github.com/nlpxucan/WizardLM 10k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 631580207,
+                "language": "Python",
+                "last_commit": "2025-06-07T01:35:05Z",
+                "owner": "nlpxucan",
+                "repo": "WizardLM",
+                "stars": 9484
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StarCoder",
+              "description": "Code generation model from BigCode https://github.com/bigcode-project/starcoder 8k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 631962458,
+                "language": "Python",
+                "last_commit": "2024-02-27T02:05:57Z",
+                "owner": "bigcode-project",
+                "repo": "starcoder",
+                "stars": 7504
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Advanced"
+        }
+      ],
+      "title": "🆕 AI Development Assistants"
+    },
+    {
+      "description": "Tools for processing multiple types of data (text, image, audio, video).",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CLIP",
+              "description": "Connecting text and images from OpenAI https://github.com/openai/CLIP 25k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 321960447,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-03-25T18:46:40Z",
+                "owner": "openai",
+                "repo": "CLIP",
+                "stars": 34218
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BLIP",
+              "description": "Bootstrapping language-image pre-training https://github.com/salesforce/BLIP 5k",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 451691984,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-03-03T12:43:12Z",
+                "owner": "salesforce",
+                "repo": "BLIP",
+                "stars": 5717
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ImageBind",
+              "description": "One embedding space to bind them all https://github.com/facebookresearch/ImageBind 8k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618029110,
+                "language": "Python",
+                "last_commit": "2025-11-21T21:48:14Z",
+                "owner": "facebookresearch",
+                "repo": "ImageBind",
+                "stars": 9065
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Beginner"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LLaVA",
+              "description": "Large language and vision assistant https://github.com/haotian-liu/LLaVA 20k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 629102662,
+                "language": "Python",
+                "last_commit": "2024-08-12T09:52:38Z",
+                "owner": "haotian-liu",
+                "repo": "LLaVA",
+                "stars": 25000
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MiniGPT-4",
+              "description": "Enhancing vision-language understanding https://github.com/Vision-CAIR/MiniGPT-4 25k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 628419800,
+                "language": "Python",
+                "last_commit": "2024-09-02T09:07:21Z",
+                "owner": "Vision-CAIR",
+                "repo": "MiniGPT-4",
+                "stars": 25627
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Video-ChatGPT",
+              "description": "Video conversation capabilities https://github.com/mbzuai-oryx/Video-ChatGPT 4k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 642368010,
+                "language": "Python",
+                "last_commit": "2025-08-05T01:07:25Z",
+                "owner": "mbzuai-oryx",
+                "repo": "Video-ChatGPT",
+                "stars": 1505
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GPT4Vision",
+              "description": "OpenAI's vision capabilities (API integration tools) https://github.com/microsoft/autogen 30k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 680120071,
+                "language": "Python",
+                "last_commit": "2026-04-15T11:59:09Z",
+                "owner": "microsoft",
+                "repo": "autogen",
+                "stars": 60609
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flamingo",
+              "description": "Few-shot learning for vision and language https://github.com/mlfoundations/open_flamingo 4k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 554523373,
+                "language": "Python",
+                "last_commit": "2024-08-31T23:11:03Z",
+                "owner": "mlfoundations",
+                "repo": "open_flamingo",
+                "stars": 4119
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Advanced"
+        }
+      ],
+      "title": "🆕 Multimodal AI"
+    },
+    {
+      "description": "Tools for deploying AI on edge devices and mobile platforms.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TensorFlow Lite",
+              "description": "Lightweight solution for mobile and embedded devices https://github.com/tensorflow/tensorflow 183k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45717250,
+                "language": "C++",
+                "last_commit": "2026-08-24T14:22:47Z",
+                "owner": "tensorflow",
+                "repo": "tensorflow",
+                "stars": 197385
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ONNX Runtime",
+              "description": "Cross-platform machine learning model accelerator https://github.com/microsoft/onnxruntime 14k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156939672,
+                "language": "C++",
+                "last_commit": "2026-08-24T13:49:51Z",
+                "owner": "microsoft",
+                "repo": "onnxruntime",
+                "stars": 21621
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Core ML Tools",
+              "description": "Convert models to Core ML format for Apple devices https://github.com/apple/coremltools 4k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95862535,
+                "language": "Python",
+                "last_commit": "2026-08-18T23:19:13Z",
+                "owner": "apple",
+                "repo": "coremltools",
+                "stars": 5395
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Beginner"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenVINO",
+              "description": "Intel's toolkit for optimizing and deploying AI inference https://github.com/openvinotoolkit/openvino 7k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153097643,
+                "language": "C++",
+                "last_commit": "2026-08-24T14:33:11Z",
+                "owner": "openvinotoolkit",
+                "repo": "openvino",
+                "stars": 10709
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TensorRT",
+              "description": "NVIDIA's platform for high-performance deep learning inference https://github.com/NVIDIA/TensorRT 10k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184657328,
+                "language": "C++",
+                "last_commit": "2026-08-17T17:05:52Z",
+                "owner": "NVIDIA",
+                "repo": "TensorRT",
+                "stars": 13282
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neural Compressor",
+              "description": "Intel's neural network compression framework https://github.com/intel/neural-compressor 2k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 281528773,
+                "language": "Python",
+                "last_commit": "2026-08-21T05:42:00Z",
+                "owner": "intel",
+                "repo": "neural-compressor",
+                "stars": 2703
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MediaPipe",
+              "description": "Framework for building multimodal applied ML pipelines https://github.com/google/mediapipe 27k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191820100,
+                "language": "C++",
+                "last_commit": "2026-08-21T23:17:05Z",
+                "owner": "google-ai-edge",
+                "repo": "mediapipe",
+                "stars": 36709
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ncnn",
+              "description": "High-performance neural network inference on mobile https://github.com/Tencent/ncnn 20k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95879426,
+                "language": "C++",
+                "last_commit": "2026-08-18T08:40:18Z",
+                "owner": "Tencent",
+                "repo": "ncnn",
+                "stars": 23738
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Advanced"
+        }
+      ],
+      "title": "🆕 Edge AI & Mobile"
+    },
+    {
+      "description": "Tools for audio processing, speech recognition, and generation.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "librosa",
+              "description": "Audio and music analysis in Python https://github.com/librosa/librosa 7k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6309729,
+                "language": "Python",
+                "last_commit": "2026-08-22T13:06:58Z",
+                "owner": "librosa",
+                "repo": "librosa",
+                "stars": 8572
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpeechRecognition",
+              "description": "Simple speech recognition library https://github.com/Uberi/speech_recognition 8k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19057465,
+                "language": "Python",
+                "last_commit": "2026-07-31T14:23:35Z",
+                "owner": "Uberi",
+                "repo": "speech_recognition",
+                "stars": 8986
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pydub",
+              "description": "Audio manipulation with simple interface https://github.com/jiaaro/pydub 9k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1692604,
+                "language": "Python",
+                "last_commit": "2026-03-19T21:32:30Z",
+                "owner": "jiaaro",
+                "repo": "pydub",
+                "stars": 9794
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Beginner"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Whisper",
+              "description": "Robust speech recognition via large-scale weak supervision https://github.com/openai/whisper 69k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 537603333,
+                "language": "Python",
+                "last_commit": "2026-07-28T20:18:29Z",
+                "owner": "openai",
+                "repo": "whisper",
+                "stars": 107866
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bark",
+              "description": "Text-prompted generative audio model https://github.com/suno-ai/bark 35k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 624994625,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-08-19T07:45:36Z",
+                "owner": "suno-ai",
+                "repo": "bark",
+                "stars": 39250
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Coqui TTS",
+              "description": "Deep learning toolkit for text-to-speech https://github.com/coqui-ai/TTS 34k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 265612440,
+                "language": "Python",
+                "last_commit": "2024-08-16T12:07:14Z",
+                "owner": "coqui-ai",
+                "repo": "TTS",
+                "stars": 45943
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ESPnet",
+              "description": "End-to-end speech processing toolkit https://github.com/espnet/espnet 8k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114054873,
+                "language": "Python",
+                "last_commit": "2026-08-17T22:19:17Z",
+                "owner": "espnet",
+                "repo": "espnet",
+                "stars": 9934
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fairseq",
+              "description": "Facebook AI sequence-to-sequence toolkit https://github.com/facebookresearch/fairseq 30k",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 101782647,
+                "language": "Python",
+                "last_commit": "2025-09-30T11:16:06Z",
+                "owner": "facebookresearch",
+                "repo": "fairseq",
+                "stars": 32235
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Silero Models",
+              "description": "Pre-trained speech-to-text, text-to-speech, and voice activity detection https://github.com/snakers4/silero-models 5k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 294685606,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-07-31T16:28:45Z",
+                "owner": "snakers4",
+                "repo": "silero-models",
+                "stars": 6075
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Advanced"
+        }
+      ],
+      "title": "🆕 Audio & Speech Processing"
+    },
+    {
+      "description": "Tools for deploying AI models in production environments.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Docker",
+              "description": "Containerization platform for consistent deployments https://github.com/docker/docker-ce 7k",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 91851756,
+                "language": "Go",
+                "last_commit": "2022-11-06T11:06:59Z",
+                "owner": "docker-archive",
+                "repo": "docker-ce",
+                "stars": 5744
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Streamlit",
+              "description": "Turn data scripts into shareable web apps https://github.com/streamlit/streamlit 35k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 204086862,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:31:06Z",
+                "owner": "streamlit",
+                "repo": "streamlit",
+                "stars": 45602
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gradio",
+              "description": "Build and share machine learning apps https://github.com/gradio-app/gradio 33k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162405963,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:33:07Z",
+                "owner": "gradio-app",
+                "repo": "gradio",
+                "stars": 43412
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Beginner"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BentoML",
+              "description": "Unified model serving framework https://github.com/bentoml/BentoML 7k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178976529,
+                "language": "Python",
+                "last_commit": "2026-08-21T07:40:35Z",
+                "owner": "bentoml",
+                "repo": "BentoML",
+                "stars": 8801
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Seldon Core",
+              "description": "Machine learning deployment on Kubernetes https://github.com/SeldonIO/seldon-core 4k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114898943,
+                "language": "Go",
+                "last_commit": "2026-03-23T11:39:54Z",
+                "owner": "SeldonIO",
+                "repo": "seldon-core",
+                "stars": 4778
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KServe",
+              "description": "Kubernetes native model serving https://github.com/kserve/kserve 3k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 178075572,
+                "language": "Go",
+                "last_commit": "2026-08-24T02:37:23Z",
+                "owner": "kserve",
+                "repo": "kserve",
+                "stars": 5825
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Triton",
+              "description": "NVIDIA's inference serving software https://github.com/triton-inference-server/server 8k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151636194,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:17:50Z",
+                "owner": "triton-inference-server",
+                "repo": "server",
+                "stars": 10935
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TorchServe",
+              "description": "Serve PyTorch models at scale https://github.com/pytorch/serve 4k",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 212488700,
+                "language": "Java",
+                "last_commit": "2025-08-06T19:17:08Z",
+                "owner": "pytorch",
+                "repo": "serve",
+                "stars": 4346
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FastAPI",
+              "description": "Modern web framework for building APIs https://github.com/tiangolo/fastapi 76k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160919119,
+                "language": "Python",
+                "last_commit": "2026-08-19T08:58:11Z",
+                "owner": "fastapi",
+                "repo": "fastapi",
+                "stars": 101814
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Advanced"
+        }
+      ],
+      "title": "🆕 Deployment & Containerization"
+    },
+    {
+      "description": "Tools for managing AI infrastructure and operations.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Jupyter",
+              "description": "Interactive computing environment https://github.com/jupyter/jupyter 18k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36895421,
+                "language": "Python",
+                "last_commit": "2026-07-09T16:05:40Z",
+                "owner": "jupyter",
+                "repo": "jupyter",
+                "stars": 15352
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JupyterLab",
+              "description": "Next-generation web-based UI for Project Jupyter https://github.com/jupyterlab/jupyterlab 14k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60374819,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T14:24:00Z",
+                "owner": "jupyterlab",
+                "repo": "jupyterlab",
+                "stars": 15266
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VS Code",
+              "description": "Popular code editor with AI extensions https://github.com/microsoft/vscode 163k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41881900,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:33:56Z",
+                "owner": "microsoft",
+                "repo": "vscode",
+                "stars": 189368
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Beginner"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Kubernetes",
+              "description": "Container orchestration platform https://github.com/kubernetes/kubernetes 110k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20580498,
+                "language": "Go",
+                "last_commit": "2026-08-21T00:56:52Z",
+                "owner": "kubernetes",
+                "repo": "kubernetes",
+                "stars": 124948
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Terraform",
+              "description": "Infrastructure as code software tool https://github.com/hashicorp/terraform 42k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17728164,
+                "language": "Go",
+                "last_commit": "2026-08-24T14:23:53Z",
+                "owner": "hashicorp",
+                "repo": "terraform",
+                "stars": 49524
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ansible",
+              "description": "Automation platform for configuration management https://github.com/ansible/ansible 62k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3638964,
+                "language": "Python",
+                "last_commit": "2026-08-19T18:12:49Z",
+                "owner": "ansible",
+                "repo": "ansible",
+                "stars": 70445
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prometheus",
+              "description": "Monitoring system and time series database https://github.com/prometheus/prometheus 55k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6838921,
+                "language": "Go",
+                "last_commit": "2026-08-24T12:48:09Z",
+                "owner": "prometheus",
+                "repo": "prometheus",
+                "stars": 65798
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Grafana",
+              "description": "Open observability platform https://github.com/grafana/grafana 64k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15111821,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:29:14Z",
+                "owner": "grafana",
+                "repo": "grafana",
+                "stars": 76387
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apache Airflow",
+              "description": "Platform to programmatically author, schedule, and monitor workflows https://github.com/apache/airflow 36k",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33884891,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:36:59Z",
+                "owner": "apache",
+                "repo": "airflow",
+                "stars": 46596
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Advanced"
+        }
+      ],
+      "title": "🆕 DevOps & Infrastructure"
+    },
+    {
+      "description": "Seminal and trending AI papers, with repositories for collections.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ML Papers of the Week",
+              "description": "Weekly curated ML papers https://github.com/dair-ai/ML-Papers-of-the-Week",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 586624356,
+                "language": null,
+                "last_commit": "2026-08-17T15:02:40Z",
+                "owner": "dair-ai",
+                "repo": "AI-Papers-of-the-Week",
+                "stars": 13103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome AI Research Papers",
+              "description": "Influential papers in AI domains https://github.com/awesomelistsio/awesome-ai-research-papers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 890072357,
+                "language": "Python",
+                "last_commit": "2026-05-04T23:35:11Z",
+                "owner": "brandonhimpfen",
+                "repo": "awesome-ai-research-papers",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Landmark Papers in ML",
+              "description": "Key historical papers https://github.com/daturkel/learning-papers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225688461,
+                "language": null,
+                "last_commit": "2026-07-08T17:25:20Z",
+                "owner": "daturkel",
+                "repo": "learning-papers",
+                "stars": 731
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Advanced Papers (Cutting-Edge)"
+        }
+      ],
+      "title": "Papers"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T02:01:12.552Z",
+    "last_updated": "2026-08-24T14:35:17.031Z",
     "original_repository": "balavenkatesh3322/awesome-AI-toolkit",
     "original_repository_id": 1040806588,
     "original_repository_sha": "b4a4dd641078c06c6ec30d93b68440ff295a4c79",
