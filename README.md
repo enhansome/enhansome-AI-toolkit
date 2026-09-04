@@ -61,16 +61,16 @@ The latest trending open-source AI tools that are shaping 2025, focusing on smal
 | Tool        | Description                                      | URL                                                                                         | Stars | Trend |
 | ----------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------- | ----- | ----- |
 | Claude Code | Command-line AI coding assistant from Anthropic  | <https://docs.anthropic.com/en/docs/claude-code>                                            | New   | 🚀    |
-| Aider       | AI pair programming in your terminal             | <https://github.com/paul-gauthier/aider> ⭐ 48,688 \| 🐛 1,845 \| 🌐 Python \| 📅 2026-05-22 | 15k   | 📈    |
+| Aider       | AI pair programming in your terminal             | <https://github.com/paul-gauthier/aider> ⭐ 48,718 \| 🐛 1,853 \| 🌐 Python \| 📅 2026-05-22 | 15k   | 📈    |
 | Cursor      | AI-powered code editor with advanced completion  | <https://cursor.sh/>                                                                        | -     | 🔥    |
 | Windsurf    | Next-gen AI development environment              | <https://github.com/codeium/windsurf>                                                       | 8k    | 📈    |
-| Zed         | High-performance multiplayer code editor with AI | <https://github.com/zed-industries/zed> ⭐ 89,672 \| 🐛 3,217 \| 🌐 Rust \| 📅 2026-09-03    | 45k   | 🚀    |
+| Zed         | High-performance multiplayer code editor with AI | <https://github.com/zed-industries/zed> ⭐ 89,734 \| 🐛 3,191 \| 🌐 Rust \| 📅 2026-09-04    | 45k   | 🚀    |
 
 ### 🎯 Most Starred in 2025
 
 | Tool          | Description                                       | URL                                                                                          | Stars |
 | ------------- | ------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----- |
-| LLaMA 4       | Latest open-source large language model from Meta | <https://github.com/facebookresearch/llama> ⭐ 59,585 \| 🐛 531 \| 🌐 Python \| 📅 2025-01-26 | 180k  |
+| LLaMA 4       | Latest open-source large language model from Meta | <https://github.com/facebookresearch/llama> ⭐ 59,590 \| 🐛 531 \| 🌐 Python \| 📅 2025-01-26 | 180k  |
 | Gemma 3       | Google's advanced lightweight language model      | <https://github.com/google/gemma>                                                            | 25k   |
 | Mixtral-8x22B | Sparse mixture of experts model                   | <https://github.com/mistralai/mistral-src> ⚠️ Archived                                       | 40k   |
 
@@ -86,15 +86,15 @@ Foundational libraries for building and training ML models.
 
 | Tool         | Description                                                                      | URL                                                                                               | Stars |
 | ------------ | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----- |
-| scikit-learn | Simple machine learning in Python for classification, regression, and clustering | <https://github.com/scikit-learn/scikit-learn> ⭐ 67,141 \| 🐛 2,150 \| 🌐 Python \| 📅 2026-09-02 | 60k   |
-| Keras        | User-friendly neural networks API on top of TensorFlow or PyTorch                | <https://github.com/keras-team/keras> ⭐ 64,273 \| 🐛 223 \| 🌐 Python \| 📅 2026-09-03            | 61k   |
+| scikit-learn | Simple machine learning in Python for classification, regression, and clustering | <https://github.com/scikit-learn/scikit-learn> ⭐ 67,155 \| 🐛 2,148 \| 🌐 Python \| 📅 2026-09-03 | 60k   |
+| Keras        | User-friendly neural networks API on top of TensorFlow or PyTorch                | <https://github.com/keras-team/keras> ⭐ 64,274 \| 🐛 225 \| 🌐 Python \| 📅 2026-09-04            | 61k   |
 
 #### Advanced
 
 | Tool       | Description                                                               | URL                                                                                         | Stars |
 | ---------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----- |
-| TensorFlow | End-to-end platform for large-scale ML with strong ecosystem support      | <https://github.com/tensorflow/tensorflow> ⭐ 198,364 \| 🐛 3,021 \| 🌐 C++ \| 📅 2026-09-03 | 183k  |
-| PyTorch    | Dynamic neural networks with GPU acceleration for research and production | <https://github.com/pytorch/pytorch> ⭐ 102,728 \| 🐛 17,537 \| 🌐 Python \| 📅 2026-09-03   | 81k   |
+| TensorFlow | End-to-end platform for large-scale ML with strong ecosystem support      | <https://github.com/tensorflow/tensorflow> ⭐ 198,793 \| 🐛 3,068 \| 🌐 C++ \| 📅 2026-09-04 | 183k  |
+| PyTorch    | Dynamic neural networks with GPU acceleration for research and production | <https://github.com/pytorch/pytorch> ⭐ 102,746 \| 🐛 17,496 \| 🌐 Python \| 📅 2026-09-04   | 81k   |
 
 ### Data Processing & Management
 
@@ -104,8 +104,8 @@ Tools for handling and preparing data.
 
 | Tool   | Description                                               | URL                                                                                       | Stars |
 | ------ | --------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----- |
-| Pandas | Easy data manipulation and analysis with DataFrames       | <https://github.com/pandas-dev/pandas> ⭐ 49,624 \| 🐛 2,710 \| 🌐 Python \| 📅 2026-09-03 | 43k   |
-| NumPy  | Fundamental array computing and linear algebra operations | <https://github.com/numpy/numpy> ⭐ 32,644 \| 🐛 2,336 \| 🌐 Python \| 📅 2026-09-03       | 28k   |
+| Pandas | Easy data manipulation and analysis with DataFrames       | <https://github.com/pandas-dev/pandas> ⭐ 49,631 \| 🐛 2,725 \| 🌐 Python \| 📅 2026-09-04 | 43k   |
+| NumPy  | Fundamental array computing and linear algebra operations | <https://github.com/numpy/numpy> ⭐ 32,650 \| 🐛 2,333 \| 🌐 Python \| 📅 2026-09-03       | 28k   |
 
 #### Advanced
 
@@ -121,16 +121,16 @@ Open-source storage for embeddings and similarity search.
 
 | Tool   | Description                                          | URL                                                                                       | Stars |
 | ------ | ---------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----- |
-| Chroma | Simple embedding database for local LLM apps         | <https://github.com/chroma-core/chroma> ⭐ 29,207 \| 🐛 824 \| 🌐 Rust \| 📅 2026-09-03    | 15k   |
-| FAISS  | Efficient similarity search library from Facebook AI | <https://github.com/facebookresearch/faiss> ⭐ 40,852 \| 🐛 292 \| 🌐 C++ \| 📅 2026-09-02 | 35k   |
+| Chroma | Simple embedding database for local LLM apps         | <https://github.com/chroma-core/chroma> ⭐ 29,219 \| 🐛 823 \| 🌐 Rust \| 📅 2026-09-03    | 15k   |
+| FAISS  | Efficient similarity search library from Facebook AI | <https://github.com/facebookresearch/faiss> ⭐ 40,852 \| 🐛 295 \| 🌐 C++ \| 📅 2026-09-03 | 35k   |
 
 #### Advanced
 
 | Tool     | Description                                                  | URL                                                                                  | Stars |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ----- |
-| Weaviate | Vector database with GraphQL and modular plugins             | <https://github.com/weaviate/weaviate> ⭐ 16,783 \| 🐛 718 \| 🌐 Go \| 📅 2026-09-02  | 15k   |
-| Qdrant   | High-performance vector search with filtering support        | <https://github.com/qdrant/qdrant> ⭐ 34,348 \| 🐛 698 \| 🌐 Rust \| 📅 2026-09-03    | 20k   |
-| Milvus   | Scalable vector database for billion-scale similarity search | <https://github.com/milvus-io/milvus> ⭐ 45,938 \| 🐛 1,305 \| 🌐 Go \| 📅 2026-09-03 | 30k   |
+| Weaviate | Vector database with GraphQL and modular plugins             | <https://github.com/weaviate/weaviate> ⭐ 16,784 \| 🐛 721 \| 🌐 Go \| 📅 2026-09-04  | 15k   |
+| Qdrant   | High-performance vector search with filtering support        | <https://github.com/qdrant/qdrant> ⭐ 34,377 \| 🐛 698 \| 🌐 Rust \| 📅 2026-09-03    | 20k   |
+| Milvus   | Scalable vector database for billion-scale similarity search | <https://github.com/milvus-io/milvus> ⭐ 45,963 \| 🐛 1,320 \| 🌐 Go \| 📅 2026-09-04 | 30k   |
 
 ### Orchestration & Workflow Frameworks
 
@@ -140,18 +140,18 @@ For building AI pipelines and agents.
 
 | Tool     | Description                              | URL                                                                                           | Stars |
 | -------- | ---------------------------------------- | --------------------------------------------------------------------------------------------- | ----- |
-| Langflow | No-code visual builder for LLM workflows | <https://github.com/langflow-ai/langflow> ⭐ 154,142 \| 🐛 1,022 \| 🌐 Python \| 📅 2026-09-03 | 15k   |
+| Langflow | No-code visual builder for LLM workflows | <https://github.com/langflow-ai/langflow> ⭐ 154,226 \| 🐛 1,030 \| 🌐 Python \| 📅 2026-09-04 | 15k   |
 | Flowise  | Drag-and-drop UI for LLM chains          | <https://github.com/FlowiseAI/Flowise> ⚠️ Archived                                            | 25k   |
 
 #### Advanced
 
 | Tool            | Description                               | URL                                                                                           | Stars |
 | --------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------- | ----- |
-| LangChain       | Modular framework for LLM apps and agents | <https://github.com/langchain-ai/langchain> ⭐ 145,541 \| 🐛 443 \| 🌐 Python \| 📅 2026-09-03 | 120k  |
-| LlamaIndex      | Data ingestion and querying for LLMs      | <https://github.com/run-llama/llama_index> ⭐ 51,987 \| 🐛 695 \| 🌐 Python \| 📅 2026-09-03   | 50k   |
-| Haystack        | Production-ready NLP pipelines            | <https://github.com/deepset-ai/haystack> ⭐ 26,400 \| 🐛 105 \| 🌐 Python \| 📅 2026-09-02     | 18k   |
-| DSPy            | Programmatic prompt optimization          | <https://github.com/stanfordnlp/dspy> ⭐ 37,740 \| 🐛 643 \| 🌐 Python \| 📅 2026-09-01        | 15k   |
-| Semantic Kernel | AI integration SDK for .NET/Python/Java   | <https://github.com/microsoft/semantic-kernel> ⭐ 28,526 \| 🐛 271 \| 🌐 C# \| 📅 2026-09-03   | 8k    |
+| LangChain       | Modular framework for LLM apps and agents | <https://github.com/langchain-ai/langchain> ⭐ 145,606 \| 🐛 445 \| 🌐 Python \| 📅 2026-09-04 | 120k  |
+| LlamaIndex      | Data ingestion and querying for LLMs      | <https://github.com/run-llama/llama_index> ⭐ 52,005 \| 🐛 697 \| 🌐 Python \| 📅 2026-09-03   | 50k   |
+| Haystack        | Production-ready NLP pipelines            | <https://github.com/deepset-ai/haystack> ⭐ 26,409 \| 🐛 107 \| 🌐 Python \| 📅 2026-09-04     | 18k   |
+| DSPy            | Programmatic prompt optimization          | <https://github.com/stanfordnlp/dspy> ⭐ 37,758 \| 🐛 652 \| 🌐 Python \| 📅 2026-09-03        | 15k   |
+| Semantic Kernel | AI integration SDK for .NET/Python/Java   | <https://github.com/microsoft/semantic-kernel> ⭐ 28,527 \| 🐛 277 \| 🌐 C# \| 📅 2026-09-03   | 8k    |
 
 ### Computer Vision
 
@@ -161,14 +161,14 @@ Libraries for image processing and vision tasks.
 
 | Tool   | Description                                                | URL                                                                                | Stars |
 | ------ | ---------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----- |
-| OpenCV | Core library for image/video processing and basic CV tasks | <https://github.com/opencv/opencv> ⭐ 90,700 \| 🐛 2,766 \| 🌐 C++ \| 📅 2026-09-02 | 75k   |
+| OpenCV | Core library for image/video processing and basic CV tasks | <https://github.com/opencv/opencv> ⭐ 90,709 \| 🐛 2,764 \| 🌐 C++ \| 📅 2026-09-03 | 75k   |
 
 #### Advanced
 
 | Tool             | Description                                                   | URL                                                                                               | Stars |
 | ---------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----- |
-| Ultralytics YOLO | State-of-the-art object detection and segmentation models     | <https://github.com/ultralytics/ultralytics> ⭐ 61,222 \| 🐛 90 \| 🌐 Python \| 📅 2026-09-02      | 30k   |
-| Detectron2       | Facebook AI's framework for object detection and segmentation | <https://github.com/facebookresearch/detectron2> ⭐ 34,691 \| 🐛 588 \| 🌐 Python \| 📅 2026-08-19 | 30k   |
+| Ultralytics YOLO | State-of-the-art object detection and segmentation models     | <https://github.com/ultralytics/ultralytics> ⭐ 61,270 \| 🐛 93 \| 🌐 Python \| 📅 2026-09-04      | 30k   |
+| Detectron2       | Facebook AI's framework for object detection and segmentation | <https://github.com/facebookresearch/detectron2> ⭐ 34,699 \| 🐛 588 \| 🌐 Python \| 📅 2026-08-19 | 30k   |
 
 ### Natural Language Processing (NLP)
 
@@ -178,15 +178,15 @@ Tools for text analysis and language models.
 
 | Tool  | Description                                                         | URL                                                                                   | Stars |
 | ----- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----- |
-| NLTK  | Toolkit for basic NLP tasks like tokenization and stemming          | <https://github.com/nltk/nltk> ⭐ 14,706 \| 🐛 233 \| 🌐 Python \| 📅 2026-09-02       | 13k   |
-| spaCy | Efficient NLP library for entity recognition and dependency parsing | <https://github.com/explosion/spaCy> ⭐ 33,869 \| 🐛 239 \| 🌐 Python \| 📅 2026-08-24 | 29k   |
+| NLTK  | Toolkit for basic NLP tasks like tokenization and stemming          | <https://github.com/nltk/nltk> ⭐ 14,706 \| 🐛 233 \| 🌐 Python \| 📅 2026-09-03       | 13k   |
+| spaCy | Efficient NLP library for entity recognition and dependency parsing | <https://github.com/explosion/spaCy> ⭐ 33,874 \| 🐛 239 \| 🌐 Python \| 📅 2026-08-24 | 29k   |
 
 #### Advanced
 
 | Tool         | Description                                            | URL                                                                                               | Stars |
 | ------------ | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ----- |
-| Transformers | Hugging Face library for state-of-the-art NLP models   | <https://github.com/huggingface/transformers> ⭐ 164,732 \| 🐛 2,394 \| 🌐 Python \| 📅 2026-09-03 | 130k  |
-| Flair        | Framework for advanced NLP with pre-trained embeddings | <https://github.com/flairNLP/flair> ⭐ 14,383 \| 🐛 31 \| 🌐 Python \| 📅 2025-10-27               | 14k   |
+| Transformers | Hugging Face library for state-of-the-art NLP models   | <https://github.com/huggingface/transformers> ⭐ 164,763 \| 🐛 2,392 \| 🌐 Python \| 📅 2026-09-04 | 130k  |
+| Flair        | Framework for advanced NLP with pre-trained embeddings | <https://github.com/flairNLP/flair> ⭐ 14,384 \| 🐛 31 \| 🌐 Python \| 📅 2025-10-27               | 14k   |
 
 ### Reinforcement Learning (RL)
 
@@ -196,13 +196,13 @@ Frameworks for agent training and decision-making.
 
 | Tool              | Description                             | URL                                                                                           | Stars |
 | ----------------- | --------------------------------------- | --------------------------------------------------------------------------------------------- | ----- |
-| Stable-Baselines3 | Reliable RL algorithms built on PyTorch | <https://github.com/DLR-RM/stable-baselines3> ⭐ 13,760 \| 🐛 85 \| 🌐 Python \| 📅 2026-08-17 | 8k    |
+| Stable-Baselines3 | Reliable RL algorithms built on PyTorch | <https://github.com/DLR-RM/stable-baselines3> ⭐ 13,764 \| 🐛 87 \| 🌐 Python \| 📅 2026-08-17 | 8k    |
 
 #### Advanced
 
 | Tool      | Description                                  | URL                                                                                     | Stars |
 | --------- | -------------------------------------------- | --------------------------------------------------------------------------------------- | ----- |
-| Ray RLlib | Scalable RL library for distributed training | <https://github.com/ray-project/ray> ⭐ 43,688 \| 🐛 3,538 \| 🌐 Python \| 📅 2026-09-03 | 32k   |
+| Ray RLlib | Scalable RL library for distributed training | <https://github.com/ray-project/ray> ⭐ 43,699 \| 🐛 3,559 \| 🌐 Python \| 📅 2026-09-04 | 32k   |
 | OpenRL    | Unified framework for single/multi-agent RL  | <https://github.com/OpenRL-Lab/openrl> ⭐ 841 \| 🐛 20 \| 🌐 Python \| 📅 2024-09-06     | 1k    |
 
 ### MLOps
@@ -213,14 +213,14 @@ Tools for ML operations, deployment, and monitoring.
 
 | Tool   | Description                                        | URL                                                                                   | Stars |
 | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------------- | ----- |
-| MLflow | Track experiments, package code, and deploy models | <https://github.com/mlflow/mlflow> ⭐ 27,784 \| 🐛 2,056 \| 🌐 Python \| 📅 2026-09-02 | 18k   |
+| MLflow | Track experiments, package code, and deploy models | <https://github.com/mlflow/mlflow> ⭐ 27,801 \| 🐛 2,059 \| 🌐 Python \| 📅 2026-09-04 | 18k   |
 
 #### Advanced
 
 | Tool     | Description                                 | URL                                                                                 | Stars |
 | -------- | ------------------------------------------- | ----------------------------------------------------------------------------------- | ----- |
-| Kubeflow | Kubernetes-native platform for ML pipelines | <https://github.com/kubeflow/kubeflow> ⭐ 15,844 \| 🐛 0 \| 📅 2026-08-21            | 14k   |
-| DVC      | Version control for data and ML models      | <https://github.com/iterative/dvc> ⭐ 15,856 \| 🐛 205 \| 🌐 Python \| 📅 2026-08-31 | 13k   |
+| Kubeflow | Kubernetes-native platform for ML pipelines | <https://github.com/kubeflow/kubeflow> ⭐ 15,846 \| 🐛 0 \| 📅 2026-08-21            | 14k   |
+| DVC      | Version control for data and ML models      | <https://github.com/iterative/dvc> ⭐ 15,858 \| 🐛 205 \| 🌐 Python \| 📅 2026-08-31 | 13k   |
 
 ### PDF Extraction Tools
 
@@ -230,16 +230,16 @@ For extracting data from PDFs.
 
 | Tool       | Description                       | URL                                                                                     | Stars |
 | ---------- | --------------------------------- | --------------------------------------------------------------------------------------- | ----- |
-| pdfplumber | Extract text and tables from PDFs | <https://github.com/jsvine/pdfplumber> ⭐ 10,709 \| 🐛 100 \| 🌐 Python \| 📅 2026-08-06 | 6k    |
+| pdfplumber | Extract text and tables from PDFs | <https://github.com/jsvine/pdfplumber> ⭐ 10,710 \| 🐛 100 \| 🌐 Python \| 📅 2026-08-06 | 6k    |
 | Camelot    | Tabular data extraction from PDFs | <https://github.com/camelot-dev/camelot> ⭐ 3,815 \| 🐛 53 \| 🌐 Python \| 📅 2026-09-02 | 2k    |
 
 #### Advanced
 
 | Tool    | Description                                   | URL                                                                                           | Stars |
 | ------- | --------------------------------------------- | --------------------------------------------------------------------------------------------- | ----- |
-| Docling | AI-powered PDF to JSON/Markdown conversion    | <https://github.com/docling-project/docling> ⭐ 65,913 \| 🐛 885 \| 🌐 Python \| 📅 2026-09-02 | 1k    |
-| PyMuPDF | High-performance PDF parsing                  | <https://github.com/pymupdf/PyMuPDF> ⭐ 10,630 \| 🐛 57 \| 🌐 Python \| 📅 2026-08-27          | 5k    |
-| PDF.js  | JavaScript-based PDF rendering and extraction | <https://github.com/mozilla/pdf.js> ⭐ 53,814 \| 🐛 416 \| 🌐 JavaScript \| 📅 2026-09-03      | 50k   |
+| Docling | AI-powered PDF to JSON/Markdown conversion    | <https://github.com/docling-project/docling> ⭐ 65,972 \| 🐛 885 \| 🌐 Python \| 📅 2026-09-04 | 1k    |
+| PyMuPDF | High-performance PDF parsing                  | <https://github.com/pymupdf/PyMuPDF> ⭐ 10,635 \| 🐛 54 \| 🌐 Python \| 📅 2026-09-03          | 5k    |
+| PDF.js  | JavaScript-based PDF rendering and extraction | <https://github.com/mozilla/pdf.js> ⭐ 53,818 \| 🐛 413 \| 🌐 JavaScript \| 📅 2026-09-04      | 50k   |
 
 ### Retrieval-Augmented Generation (RAG)
 
@@ -249,18 +249,18 @@ For enhancing LLMs with external data.
 
 | Tool        | Description                          | URL                                                                                                  | Stars |
 | ----------- | ------------------------------------ | ---------------------------------------------------------------------------------------------------- | ----- |
-| PrivateGPT  | Local document interaction with LLMs | <https://github.com/imartinez/privateGPT> ⭐ 57,488 \| 🐛 5 \| 🌐 Python \| 📅 2026-09-02             | 50k   |
-| AnythingLLM | All-in-one local LLM app for RAG     | <https://github.com/Mintplex-Labs/anything-llm> ⭐ 65,534 \| 🐛 324 \| 🌐 JavaScript \| 📅 2026-09-03 | 20k   |
+| PrivateGPT  | Local document interaction with LLMs | <https://github.com/imartinez/privateGPT> ⭐ 57,490 \| 🐛 5 \| 🌐 Python \| 📅 2026-09-03             | 50k   |
+| AnythingLLM | All-in-one local LLM app for RAG     | <https://github.com/Mintplex-Labs/anything-llm> ⭐ 65,586 \| 🐛 328 \| 🌐 JavaScript \| 📅 2026-09-04 | 20k   |
 
 #### Advanced
 
 | Tool    | Description                                | URL                                                                                    | Stars |
 | ------- | ------------------------------------------ | -------------------------------------------------------------------------------------- | ----- |
-| RAGFlow | Deep document understanding for RAG        | <https://github.com/infiniflow/ragflow> ⭐ 89,939 \| 🐛 1,594 \| 🌐 Go \| 📅 2026-09-03 | 15k   |
+| RAGFlow | Deep document understanding for RAG        | <https://github.com/infiniflow/ragflow> ⭐ 90,015 \| 🐛 1,591 \| 🌐 Go \| 📅 2026-09-04 | 15k   |
 | Verba   | RAG chatbot with Weaviate integration      | <https://github.com/weaviate/Verba> ⚠️ Archived                                        | 5k    |
-| Quivr   | GenAI second brain for document management | <https://github.com/QuivrHQ/quivr> ⭐ 39,476 \| 🐛 35 \| 🌐 Python \| 📅 2026-08-31     | 35k   |
-| Jina    | Multimodal neural search for RAG           | <https://github.com/jina-ai/jina> ⭐ 21,859 \| 🐛 26 \| 🌐 Python \| 📅 2025-03-24      | 25k   |
-| txtai   | Embeddings database for semantic search    | <https://github.com/neuml/txtai> ⭐ 12,920 \| 🐛 8 \| 🌐 Python \| 📅 2026-09-02        | 10k   |
+| Quivr   | GenAI second brain for document management | <https://github.com/QuivrHQ/quivr> ⭐ 39,491 \| 🐛 35 \| 🌐 Python \| 📅 2026-08-31     | 35k   |
+| Jina    | Multimodal neural search for RAG           | <https://github.com/jina-ai/jina> ⭐ 21,860 \| 🐛 26 \| 🌐 Python \| 📅 2025-03-24      | 25k   |
+| txtai   | Embeddings database for semantic search    | <https://github.com/neuml/txtai> ⭐ 12,924 \| 🐛 12 \| 🌐 Python \| 📅 2026-09-03       | 10k   |
 
 ### Evaluation & Testing
 
@@ -270,15 +270,15 @@ For assessing AI models.
 
 | Tool  | Description                            | URL                                                                                            | Stars |
 | ----- | -------------------------------------- | ---------------------------------------------------------------------------------------------- | ----- |
-| Ragas | Framework for evaluating RAG pipelines | <https://github.com/explodinggradients/ragas> ⭐ 15,596 \| 🐛 590 \| 🌐 Python \| 📅 2026-02-24 | 8k    |
+| Ragas | Framework for evaluating RAG pipelines | <https://github.com/explodinggradients/ragas> ⭐ 15,610 \| 🐛 593 \| 🌐 Python \| 📅 2026-02-24 | 8k    |
 
 #### Advanced
 
 | Tool     | Description                                 | URL                                                                                         | Stars |
 | -------- | ------------------------------------------- | ------------------------------------------------------------------------------------------- | ----- |
-| Phoenix  | Observability for LLMs and vision models    | <https://github.com/Arize-ai/phoenix> ⭐ 11,298 \| 🐛 965 \| 🌐 Python \| 📅 2026-09-03      | 5k    |
-| DeepEval | Unit testing for LLM outputs                | <https://github.com/confident-ai/deepeval> ⭐ 18,064 \| 🐛 564 \| 🌐 Python \| 📅 2026-09-02 | 8k    |
-| TruLens  | Tracking and evaluation for LLM experiments | <https://github.com/truera/trulens> ⭐ 3,531 \| 🐛 61 \| 🌐 Python \| 📅 2026-09-03          | 2k    |
+| Phoenix  | Observability for LLMs and vision models    | <https://github.com/Arize-ai/phoenix> ⭐ 11,317 \| 🐛 967 \| 🌐 Python \| 📅 2026-09-04      | 5k    |
+| DeepEval | Unit testing for LLM outputs                | <https://github.com/confident-ai/deepeval> ⭐ 18,091 \| 🐛 559 \| 🌐 Python \| 📅 2026-09-03 | 8k    |
+| TruLens  | Tracking and evaluation for LLM experiments | <https://github.com/truera/trulens> ⭐ 3,533 \| 🐛 60 \| 🌐 Python \| 📅 2026-09-04          | 2k    |
 
 ### Monitoring & Observability
 
@@ -288,13 +288,13 @@ For production AI systems.
 
 | Tool    | Description           | URL                                                                                    | Stars |
 | ------- | --------------------- | -------------------------------------------------------------------------------------- | ----- |
-| Phoenix | ML observability tool | <https://github.com/Arize-ai/phoenix> ⭐ 11,298 \| 🐛 965 \| 🌐 Python \| 📅 2026-09-03 | 5k    |
+| Phoenix | ML observability tool | <https://github.com/Arize-ai/phoenix> ⭐ 11,317 \| 🐛 967 \| 🌐 Python \| 📅 2026-09-04 | 5k    |
 
 #### Advanced
 
 | Tool         | Description                         | URL                                                                                                  | Stars |
 | ------------ | ----------------------------------- | ---------------------------------------------------------------------------------------------------- | ----- |
-| Evidently AI | Monitoring for ML model performance | <https://github.com/evidentlyai/evidently> ⭐ 7,881 \| 🐛 301 \| 🌐 Jupyter Notebook \| 📅 2026-08-31 | 5k    |
+| Evidently AI | Monitoring for ML model performance | <https://github.com/evidentlyai/evidently> ⭐ 7,885 \| 🐛 301 \| 🌐 Jupyter Notebook \| 📅 2026-08-31 | 5k    |
 
 ### AI Agents
 
@@ -304,16 +304,16 @@ Frameworks for building autonomous AI agents.
 
 | Tool    | Description                                        | URL                                                                                                 | Stars |
 | ------- | -------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----- |
-| AutoGPT | Autonomous AI agent for task automation using LLMs | <https://github.com/Significant-Gravitas/AutoGPT> ⭐ 187,088 \| 🐛 545 \| 🌐 Python \| 📅 2026-09-03 | 160k  |
-| BabyAGI | Task-driven autonomous agent inspired by BabyAGI   | <https://github.com/yoheinakajima/babyagi> ⭐ 22,356 \| 🐛 29 \| 🌐 Python \| 📅 2026-01-31          | 18k   |
+| AutoGPT | Autonomous AI agent for task automation using LLMs | <https://github.com/Significant-Gravitas/AutoGPT> ⭐ 187,109 \| 🐛 562 \| 🌐 Python \| 📅 2026-09-04 | 160k  |
+| BabyAGI | Task-driven autonomous agent inspired by BabyAGI   | <https://github.com/yoheinakajima/babyagi> ⭐ 22,355 \| 🐛 29 \| 🌐 Python \| 📅 2026-01-31          | 18k   |
 
 #### Advanced
 
 | Tool      | Description                                         | URL                                                                                              | Stars |
 | --------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----- |
-| CrewAI    | Framework for orchestrating role-playing AI agents  | <https://github.com/joaomdmoura/crewAI> ⭐ 58,024 \| 🐛 711 \| 🌐 Python \| 📅 2026-09-02         | 20k   |
-| MetaGPT   | Multi-agent framework simulating a software company | <https://github.com/geekan/MetaGPT> ⭐ 70,182 \| 🐛 132 \| 🌐 Python \| 📅 2026-01-21             | 40k   |
-| OpenHands | AI agents for software development tasks            | <https://github.com/All-Hands-AI/OpenHands> ⭐ 86,011 \| 🐛 644 \| 🌐 TypeScript \| 📅 2026-09-03 | 10k   |
+| CrewAI    | Framework for orchestrating role-playing AI agents  | <https://github.com/joaomdmoura/crewAI> ⭐ 58,064 \| 🐛 720 \| 🌐 Python \| 📅 2026-09-03         | 20k   |
+| MetaGPT   | Multi-agent framework simulating a software company | <https://github.com/geekan/MetaGPT> ⭐ 70,205 \| 🐛 132 \| 🌐 Python \| 📅 2026-01-21             | 40k   |
+| OpenHands | AI agents for software development tasks            | <https://github.com/All-Hands-AI/OpenHands> ⭐ 86,126 \| 🐛 646 \| 🌐 TypeScript \| 📅 2026-09-03 | 10k   |
 
 ### Generative AI
 
@@ -323,16 +323,16 @@ Tools for generating text, images, and other content.
 
 | Tool                   | Description                                                       | URL                                                                                                           | Stars |
 | ---------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----- |
-| Ollama                 | Run and manage local LLMs easily                                  | <https://github.com/ollama/ollama> ⭐ 180,007 \| 🐛 3,884 \| 🌐 Go \| 📅 2026-09-03                            | 70k   |
-| Stable Diffusion WebUI | User-friendly web interface for Stable Diffusion image generation | <https://github.com/AUTOMATIC1111/stable-diffusion-webui> ⭐ 164,776 \| 🐛 2,503 \| 🌐 Python \| 📅 2026-03-02 | 130k  |
+| Ollama                 | Run and manage local LLMs easily                                  | <https://github.com/ollama/ollama> ⭐ 180,099 \| 🐛 3,896 \| 🌐 Go \| 📅 2026-09-04                            | 70k   |
+| Stable Diffusion WebUI | User-friendly web interface for Stable Diffusion image generation | <https://github.com/AUTOMATIC1111/stable-diffusion-webui> ⭐ 164,797 \| 🐛 2,504 \| 🌐 Python \| 📅 2026-03-02 | 130k  |
 
 #### Advanced
 
 | Tool      | Description                                                      | URL                                                                                           | Stars |
 | --------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----- |
-| Diffusers | State-of-the-art diffusion models for image and audio generation | <https://github.com/huggingface/diffusers> ⭐ 34,431 \| 🐛 1,388 \| 🌐 Python \| 📅 2026-09-03 | 25k   |
-| llama.cpp | Efficient LLM inference in C/C++                                 | <https://github.com/ggerganov/llama.cpp> ⭐ 126,839 \| 🐛 2,376 \| 🌐 C++ \| 📅 2026-09-03     | 60k   |
-| InvokeAI  | Creative engine for Stable Diffusion models                      | <https://github.com/invoke-ai/InvokeAI> ⭐ 28,119 \| 🐛 382 \| 🌐 Python \| 📅 2026-09-01      | 22k   |
+| Diffusers | State-of-the-art diffusion models for image and audio generation | <https://github.com/huggingface/diffusers> ⭐ 34,442 \| 🐛 1,391 \| 🌐 Python \| 📅 2026-09-04 | 25k   |
+| llama.cpp | Efficient LLM inference in C/C++                                 | <https://github.com/ggerganov/llama.cpp> ⭐ 126,976 \| 🐛 2,398 \| 🌐 C++ \| 📅 2026-09-04     | 60k   |
+| InvokeAI  | Creative engine for Stable Diffusion models                      | <https://github.com/invoke-ai/InvokeAI> ⭐ 28,127 \| 🐛 378 \| 🌐 Python \| 📅 2026-09-04      | 22k   |
 
 ### Deep Learning
 
@@ -342,15 +342,15 @@ Libraries for advanced neural network development.
 
 | Tool   | Description                                                   | URL                                                                                           | Stars |
 | ------ | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----- |
-| fastai | High-level deep learning library on PyTorch for quick results | <https://github.com/fastai/fastai> ⭐ 28,130 \| 🐛 268 \| 🌐 Jupyter Notebook \| 📅 2026-09-03 | 26k   |
+| fastai | High-level deep learning library on PyTorch for quick results | <https://github.com/fastai/fastai> ⭐ 28,131 \| 🐛 268 \| 🌐 Jupyter Notebook \| 📅 2026-09-03 | 26k   |
 
 #### Advanced
 
 | Tool           | Description                                        | URL                                                                                              | Stars |
 | -------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----- |
-| JAX            | Composable transformations for high-performance ML | <https://github.com/google/jax> ⭐ 36,242 \| 🐛 2,511 \| 🌐 Python \| 📅 2026-09-03               | 30k   |
-| tinygrad       | Minimalist deep learning framework                 | <https://github.com/tinygrad/tinygrad> ⭐ 33,544 \| 🐛 184 \| 🌐 Python \| 📅 2026-09-03          | 25k   |
-| Deeplearning4j | JVM-based deep learning suite for enterprise       | <https://github.com/deeplearning4j/deeplearning4j> ⭐ 14,248 \| 🐛 59 \| 🌐 Java \| 📅 2026-09-03 | 13k   |
+| JAX            | Composable transformations for high-performance ML | <https://github.com/google/jax> ⭐ 36,252 \| 🐛 2,515 \| 🌐 Python \| 📅 2026-09-04               | 30k   |
+| tinygrad       | Minimalist deep learning framework                 | <https://github.com/tinygrad/tinygrad> ⭐ 33,548 \| 🐛 187 \| 🌐 Python \| 📅 2026-09-04          | 25k   |
+| Deeplearning4j | JVM-based deep learning suite for enterprise       | <https://github.com/deeplearning4j/deeplearning4j> ⭐ 14,247 \| 🐛 59 \| 🌐 Java \| 📅 2026-09-03 | 13k   |
 
 ### Advanced LLM Architectures
 
@@ -360,16 +360,16 @@ Frameworks for optimizing and architecting large language models.
 
 | Tool         | Description                                      | URL                                                                                          | Stars |
 | ------------ | ------------------------------------------------ | -------------------------------------------------------------------------------------------- | ----- |
-| PEFT         | Parameter-efficient fine-tuning for large models | <https://github.com/huggingface/peft> ⭐ 21,623 \| 🐛 80 \| 🌐 Python \| 📅 2026-09-02        | 15k   |
-| bitsandbytes | K-bit quantization for accessible LLMs           | <https://github.com/TimDettmers/bitsandbytes> ⭐ 8,454 \| 🐛 71 \| 🌐 Python \| 📅 2026-08-27 | 5k    |
+| PEFT         | Parameter-efficient fine-tuning for large models | <https://github.com/huggingface/peft> ⭐ 21,630 \| 🐛 80 \| 🌐 Python \| 📅 2026-09-03        | 15k   |
+| bitsandbytes | K-bit quantization for accessible LLMs           | <https://github.com/TimDettmers/bitsandbytes> ⭐ 8,454 \| 🐛 73 \| 🌐 Python \| 📅 2026-09-03 | 5k    |
 
 #### Advanced
 
 | Tool            | Description                                      | URL                                                                                               | Stars |
 | --------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ----- |
-| vLLM            | High-throughput LLM inference engine             | <https://github.com/vllm-project/vllm> ⭐ 90,828 \| 🐛 7,389 \| 🌐 Python \| 📅 2026-09-03         | 25k   |
-| Flash Attention | Fast and memory-efficient attention mechanism    | <https://github.com/Dao-AILab/flash-attention> ⭐ 24,834 \| 🐛 1,297 \| 🌐 Python \| 📅 2026-09-02 | 12k   |
-| exllamav2       | Fast inference library for LLMs on consumer GPUs | <https://github.com/turboderp/exllamav2> ⭐ 4,614 \| 🐛 158 \| 🌐 Python \| 📅 2026-03-04          | 6k    |
+| vLLM            | High-throughput LLM inference engine             | <https://github.com/vllm-project/vllm> ⭐ 90,931 \| 🐛 7,500 \| 🌐 Python \| 📅 2026-09-04         | 25k   |
+| Flash Attention | Fast and memory-efficient attention mechanism    | <https://github.com/Dao-AILab/flash-attention> ⭐ 24,838 \| 🐛 1,305 \| 🌐 Python \| 📅 2026-09-02 | 12k   |
+| exllamav2       | Fast inference library for LLMs on consumer GPUs | <https://github.com/turboderp/exllamav2> ⭐ 4,613 \| 🐛 158 \| 🌐 Python \| 📅 2026-03-04          | 6k    |
 
 ## 🆕 AI Development Assistants
 
@@ -387,11 +387,11 @@ Tools that help developers write, debug, and optimize code using AI.
 
 | Tool        | Description                                                 | URL                                                                                            | Stars |
 | ----------- | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ----- |
-| Aider       | AI pair programming in your terminal                        | <https://github.com/paul-gauthier/aider> ⭐ 48,688 \| 🐛 1,845 \| 🌐 Python \| 📅 2026-05-22    | 20k   |
-| Continue    | Open-source autopilot for VS Code and JetBrains             | <https://github.com/continuedev/continue> ⭐ 35,734 \| 🐛 938 \| 🌐 TypeScript \| 📅 2026-09-02 | 18k   |
+| Aider       | AI pair programming in your terminal                        | <https://github.com/paul-gauthier/aider> ⭐ 48,718 \| 🐛 1,853 \| 🌐 Python \| 📅 2026-05-22    | 20k   |
+| Continue    | Open-source autopilot for VS Code and JetBrains             | <https://github.com/continuedev/continue> ⭐ 35,751 \| 🐛 933 \| 🌐 TypeScript \| 📅 2026-09-03 | 18k   |
 | CodeT5      | Identifier-aware unified pre-trained encoder-decoder models | <https://github.com/salesforce/CodeT5> ⚠️ Archived                                             | 2k    |
-| WizardCoder | Code generation model                                       | <https://github.com/nlpxucan/WizardLM> ⭐ 9,481 \| 🐛 169 \| 🌐 Python \| 📅 2025-06-07         | 10k   |
-| StarCoder   | Code generation model from BigCode                          | <https://github.com/bigcode-project/starcoder> ⭐ 7,508 \| 🐛 103 \| 🌐 Python \| 📅 2024-02-27 | 8k    |
+| WizardCoder | Code generation model                                       | <https://github.com/nlpxucan/WizardLM> ⭐ 9,480 \| 🐛 169 \| 🌐 Python \| 📅 2025-06-07         | 10k   |
+| StarCoder   | Code generation model from BigCode                          | <https://github.com/bigcode-project/starcoder> ⭐ 7,509 \| 🐛 103 \| 🌐 Python \| 📅 2024-02-27 | 8k    |
 
 ## 🆕 Multimodal AI
 
@@ -401,7 +401,7 @@ Tools for processing multiple types of data (text, image, audio, video).
 
 | Tool      | Description                               | URL                                                                                            | Stars |
 | --------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------- | ----- |
-| CLIP      | Connecting text and images from OpenAI    | <https://github.com/openai/CLIP> ⭐ 34,254 \| 🐛 272 \| 🌐 Jupyter Notebook \| 📅 2026-03-25    | 25k   |
+| CLIP      | Connecting text and images from OpenAI    | <https://github.com/openai/CLIP> ⭐ 34,257 \| 🐛 272 \| 🌐 Jupyter Notebook \| 📅 2026-03-25    | 25k   |
 | BLIP      | Bootstrapping language-image pre-training | <https://github.com/salesforce/BLIP> ⚠️ Archived                                               | 5k    |
 | ImageBind | One embedding space to bind them all      | <https://github.com/facebookresearch/ImageBind> ⭐ 9,066 \| 🐛 91 \| 🌐 Python \| 📅 2025-11-21 | 8k    |
 
@@ -409,10 +409,10 @@ Tools for processing multiple types of data (text, image, audio, video).
 
 | Tool          | Description                                          | URL                                                                                             | Stars |
 | ------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----- |
-| LLaVA         | Large language and vision assistant                  | <https://github.com/haotian-liu/LLaVA> ⭐ 25,014 \| 🐛 1,140 \| 🌐 Python \| 📅 2024-08-12       | 20k   |
+| LLaVA         | Large language and vision assistant                  | <https://github.com/haotian-liu/LLaVA> ⭐ 25,012 \| 🐛 1,140 \| 🌐 Python \| 📅 2024-08-12       | 20k   |
 | MiniGPT-4     | Enhancing vision-language understanding              | <https://github.com/Vision-CAIR/MiniGPT-4> ⭐ 25,620 \| 🐛 376 \| 🌐 Python \| 📅 2024-09-02     | 25k   |
 | Video-ChatGPT | Video conversation capabilities                      | <https://github.com/mbzuai-oryx/Video-ChatGPT> ⭐ 1,507 \| 🐛 26 \| 🌐 Python \| 📅 2025-08-05   | 4k    |
-| GPT4Vision    | OpenAI's vision capabilities (API integration tools) | <https://github.com/microsoft/autogen> ⭐ 60,771 \| 🐛 1,030 \| 🌐 Python \| 📅 2026-04-15       | 30k   |
+| GPT4Vision    | OpenAI's vision capabilities (API integration tools) | <https://github.com/microsoft/autogen> ⭐ 60,793 \| 🐛 1,043 \| 🌐 Python \| 📅 2026-04-15       | 30k   |
 | Flamingo      | Few-shot learning for vision and language            | <https://github.com/mlfoundations/open_flamingo> ⭐ 4,116 \| 🐛 51 \| 🌐 Python \| 📅 2024-08-31 | 4k    |
 
 ## 🆕 Edge AI & Mobile
@@ -423,19 +423,19 @@ Tools for deploying AI on edge devices and mobile platforms.
 
 | Tool            | Description                                          | URL                                                                                         | Stars |
 | --------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----- |
-| TensorFlow Lite | Lightweight solution for mobile and embedded devices | <https://github.com/tensorflow/tensorflow> ⭐ 198,364 \| 🐛 3,021 \| 🌐 C++ \| 📅 2026-09-03 | 183k  |
-| ONNX Runtime    | Cross-platform machine learning model accelerator    | <https://github.com/microsoft/onnxruntime> ⭐ 21,740 \| 🐛 1,687 \| 🌐 C++ \| 📅 2026-09-03  | 14k   |
-| Core ML Tools   | Convert models to Core ML format for Apple devices   | <https://github.com/apple/coremltools> ⭐ 5,412 \| 🐛 502 \| 🌐 Python \| 📅 2026-08-27      | 4k    |
+| TensorFlow Lite | Lightweight solution for mobile and embedded devices | <https://github.com/tensorflow/tensorflow> ⭐ 198,793 \| 🐛 3,068 \| 🌐 C++ \| 📅 2026-09-04 | 183k  |
+| ONNX Runtime    | Cross-platform machine learning model accelerator    | <https://github.com/microsoft/onnxruntime> ⭐ 21,759 \| 🐛 1,691 \| 🌐 C++ \| 📅 2026-09-04  | 14k   |
+| Core ML Tools   | Convert models to Core ML format for Apple devices   | <https://github.com/apple/coremltools> ⭐ 5,413 \| 🐛 502 \| 🌐 Python \| 📅 2026-08-27      | 4k    |
 
 #### Advanced
 
 | Tool              | Description                                                    | URL                                                                                         | Stars |
 | ----------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----- |
-| OpenVINO          | Intel's toolkit for optimizing and deploying AI inference      | <https://github.com/openvinotoolkit/openvino> ⭐ 10,793 \| 🐛 795 \| 🌐 C++ \| 📅 2026-09-03 | 7k    |
-| TensorRT          | NVIDIA's platform for high-performance deep learning inference | <https://github.com/NVIDIA/TensorRT> ⭐ 13,313 \| 🐛 631 \| 🌐 C++ \| 📅 2026-08-25          | 10k   |
-| Neural Compressor | Intel's neural network compression framework                   | <https://github.com/intel/neural-compressor> ⭐ 2,707 \| 🐛 25 \| 🌐 Python \| 📅 2026-09-03 | 2k    |
-| MediaPipe         | Framework for building multimodal applied ML pipelines         | <https://github.com/google/mediapipe> ⭐ 36,824 \| 🐛 551 \| 🌐 C++ \| 📅 2026-09-03         | 27k   |
-| ncnn              | High-performance neural network inference on mobile            | <https://github.com/Tencent/ncnn> ⭐ 23,781 \| 🐛 1,240 \| 🌐 C++ \| 📅 2026-09-02           | 20k   |
+| OpenVINO          | Intel's toolkit for optimizing and deploying AI inference      | <https://github.com/openvinotoolkit/openvino> ⭐ 10,799 \| 🐛 807 \| 🌐 C++ \| 📅 2026-09-04 | 7k    |
+| TensorRT          | NVIDIA's platform for high-performance deep learning inference | <https://github.com/NVIDIA/TensorRT> ⭐ 13,316 \| 🐛 631 \| 🌐 C++ \| 📅 2026-08-25          | 10k   |
+| Neural Compressor | Intel's neural network compression framework                   | <https://github.com/intel/neural-compressor> ⭐ 2,707 \| 🐛 26 \| 🌐 Python \| 📅 2026-09-04 | 2k    |
+| MediaPipe         | Framework for building multimodal applied ML pipelines         | <https://github.com/google/mediapipe> ⭐ 36,829 \| 🐛 541 \| 🌐 C++ \| 📅 2026-09-03         | 27k   |
+| ncnn              | High-performance neural network inference on mobile            | <https://github.com/Tencent/ncnn> ⭐ 23,784 \| 🐛 1,245 \| 🌐 C++ \| 📅 2026-09-02           | 20k   |
 
 ## 🆕 Audio & Speech Processing
 
@@ -445,20 +445,20 @@ Tools for audio processing, speech recognition, and generation.
 
 | Tool              | Description                              | URL                                                                                           | Stars |
 | ----------------- | ---------------------------------------- | --------------------------------------------------------------------------------------------- | ----- |
-| librosa           | Audio and music analysis in Python       | <https://github.com/librosa/librosa> ⭐ 8,582 \| 🐛 51 \| 🌐 Python \| 📅 2026-08-22           | 7k    |
+| librosa           | Audio and music analysis in Python       | <https://github.com/librosa/librosa> ⭐ 8,585 \| 🐛 51 \| 🌐 Python \| 📅 2026-08-22           | 7k    |
 | SpeechRecognition | Simple speech recognition library        | <https://github.com/Uberi/speech_recognition> ⭐ 8,987 \| 🐛 311 \| 🌐 Python \| 📅 2026-09-02 | 8k    |
-| pydub             | Audio manipulation with simple interface | <https://github.com/jiaaro/pydub> ⭐ 9,794 \| 🐛 421 \| 🌐 Python \| 📅 2026-03-19             | 9k    |
+| pydub             | Audio manipulation with simple interface | <https://github.com/jiaaro/pydub> ⭐ 9,793 \| 🐛 421 \| 🌐 Python \| 📅 2026-03-19             | 9k    |
 
 #### Advanced
 
 | Tool          | Description                                                              | URL                                                                                                  | Stars |
 | ------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | ----- |
-| Whisper       | Robust speech recognition via large-scale weak supervision               | <https://github.com/openai/whisper> ⭐ 108,343 \| 🐛 138 \| 🌐 Python \| 📅 2026-08-31                | 69k   |
-| Bark          | Text-prompted generative audio model                                     | <https://github.com/suno-ai/bark> ⭐ 39,258 \| 🐛 268 \| 🌐 Jupyter Notebook \| 📅 2024-08-19         | 35k   |
-| Coqui TTS     | Deep learning toolkit for text-to-speech                                 | <https://github.com/coqui-ai/TTS> ⭐ 45,984 \| 🐛 2 \| 🌐 Python \| 📅 2024-08-16                     | 34k   |
-| ESPnet        | End-to-end speech processing toolkit                                     | <https://github.com/espnet/espnet> ⭐ 9,949 \| 🐛 58 \| 🌐 Python \| 📅 2026-09-03                    | 8k    |
+| Whisper       | Robust speech recognition via large-scale weak supervision               | <https://github.com/openai/whisper> ⭐ 108,385 \| 🐛 142 \| 🌐 Python \| 📅 2026-08-31                | 69k   |
+| Bark          | Text-prompted generative audio model                                     | <https://github.com/suno-ai/bark> ⭐ 39,259 \| 🐛 268 \| 🌐 Jupyter Notebook \| 📅 2024-08-19         | 35k   |
+| Coqui TTS     | Deep learning toolkit for text-to-speech                                 | <https://github.com/coqui-ai/TTS> ⭐ 45,983 \| 🐛 2 \| 🌐 Python \| 📅 2024-08-16                     | 34k   |
+| ESPnet        | End-to-end speech processing toolkit                                     | <https://github.com/espnet/espnet> ⭐ 9,947 \| 🐛 56 \| 🌐 Python \| 📅 2026-09-04                    | 8k    |
 | fairseq       | Facebook AI sequence-to-sequence toolkit                                 | <https://github.com/facebookresearch/fairseq> ⚠️ Archived                                            | 30k   |
-| Silero Models | Pre-trained speech-to-text, text-to-speech, and voice activity detection | <https://github.com/snakers4/silero-models> ⭐ 6,085 \| 🐛 11 \| 🌐 Jupyter Notebook \| 📅 2026-07-31 | 5k    |
+| Silero Models | Pre-trained speech-to-text, text-to-speech, and voice activity detection | <https://github.com/snakers4/silero-models> ⭐ 6,090 \| 🐛 11 \| 🌐 Jupyter Notebook \| 📅 2026-07-31 | 5k    |
 
 ## 🆕 Deployment & Containerization
 
@@ -469,19 +469,19 @@ Tools for deploying AI models in production environments.
 | Tool      | Description                                          | URL                                                                                         | Stars |
 | --------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----- |
 | Docker    | Containerization platform for consistent deployments | <https://github.com/docker/docker-ce> ⚠️ Archived                                           | 7k    |
-| Streamlit | Turn data scripts into shareable web apps            | <https://github.com/streamlit/streamlit> ⭐ 45,674 \| 🐛 1,182 \| 🌐 Python \| 📅 2026-09-03 | 35k   |
-| Gradio    | Build and share machine learning apps                | <https://github.com/gradio-app/gradio> ⭐ 43,453 \| 🐛 156 \| 🌐 Python \| 📅 2026-09-03     | 33k   |
+| Streamlit | Turn data scripts into shareable web apps            | <https://github.com/streamlit/streamlit> ⭐ 45,680 \| 🐛 1,190 \| 🌐 Python \| 📅 2026-09-04 | 35k   |
+| Gradio    | Build and share machine learning apps                | <https://github.com/gradio-app/gradio> ⭐ 43,466 \| 🐛 157 \| 🌐 Python \| 📅 2026-09-03     | 33k   |
 
 #### Advanced
 
 | Tool        | Description                               | URL                                                                                                  | Stars |
 | ----------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----- |
-| BentoML     | Unified model serving framework           | <https://github.com/bentoml/BentoML> ⭐ 8,817 \| 🐛 212 \| 🌐 Python \| 📅 2026-08-28                 | 7k    |
+| BentoML     | Unified model serving framework           | <https://github.com/bentoml/BentoML> ⭐ 8,820 \| 🐛 213 \| 🌐 Python \| 📅 2026-08-28                 | 7k    |
 | Seldon Core | Machine learning deployment on Kubernetes | <https://github.com/SeldonIO/seldon-core> ⭐ 4,779 \| 🐛 396 \| 🌐 Go \| 📅 2026-03-23                | 4k    |
-| KServe      | Kubernetes native model serving           | <https://github.com/kserve/kserve> ⭐ 5,852 \| 🐛 202 \| 🌐 Go \| 📅 2026-09-02                       | 3k    |
-| Triton      | NVIDIA's inference serving software       | <https://github.com/triton-inference-server/server> ⭐ 10,958 \| 🐛 887 \| 🌐 Python \| 📅 2026-09-03 | 8k    |
+| KServe      | Kubernetes native model serving           | <https://github.com/kserve/kserve> ⭐ 5,856 \| 🐛 201 \| 🌐 Go \| 📅 2026-09-03                       | 3k    |
+| Triton      | NVIDIA's inference serving software       | <https://github.com/triton-inference-server/server> ⭐ 10,961 \| 🐛 890 \| 🌐 Python \| 📅 2026-09-03 | 8k    |
 | TorchServe  | Serve PyTorch models at scale             | <https://github.com/pytorch/serve> ⚠️ Archived                                                       | 4k    |
-| FastAPI     | Modern web framework for building APIs    | <https://github.com/tiangolo/fastapi> ⭐ 102,042 \| 🐛 81 \| 🌐 Python \| 📅 2026-09-01               | 76k   |
+| FastAPI     | Modern web framework for building APIs    | <https://github.com/tiangolo/fastapi> ⭐ 102,068 \| 🐛 81 \| 🌐 Python \| 📅 2026-09-01               | 76k   |
 
 ## 🆕 DevOps & Infrastructure
 
@@ -492,19 +492,19 @@ Tools for managing AI infrastructure and operations.
 | Tool       | Description                                      | URL                                                                                               | Stars |
 | ---------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ----- |
 | Jupyter    | Interactive computing environment                | <https://github.com/jupyter/jupyter> ⭐ 15,348 \| 🐛 46 \| 🌐 Python \| 📅 2026-07-09              | 18k   |
-| JupyterLab | Next-generation web-based UI for Project Jupyter | <https://github.com/jupyterlab/jupyterlab> ⭐ 15,279 \| 🐛 2,607 \| 🌐 TypeScript \| 📅 2026-09-02 | 14k   |
-| VS Code    | Popular code editor with AI extensions           | <https://github.com/microsoft/vscode> ⭐ 190,438 \| 🐛 20,434 \| 🌐 TypeScript \| 📅 2026-09-03    | 163k  |
+| JupyterLab | Next-generation web-based UI for Project Jupyter | <https://github.com/jupyterlab/jupyterlab> ⭐ 15,283 \| 🐛 2,608 \| 🌐 TypeScript \| 📅 2026-09-03 | 14k   |
+| VS Code    | Popular code editor with AI extensions           | <https://github.com/microsoft/vscode> ⭐ 190,823 \| 🐛 20,499 \| 🌐 TypeScript \| 📅 2026-09-04    | 163k  |
 
 #### Advanced
 
 | Tool           | Description                                                          | URL                                                                                         | Stars |
 | -------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----- |
-| Kubernetes     | Container orchestration platform                                     | <https://github.com/kubernetes/kubernetes> ⭐ 125,956 \| 🐛 3,031 \| 🌐 Go \| 📅 2026-09-03  | 110k  |
-| Terraform      | Infrastructure as code software tool                                 | <https://github.com/hashicorp/terraform> ⭐ 49,609 \| 🐛 1,916 \| 🌐 Go \| 📅 2026-09-02     | 42k   |
-| Ansible        | Automation platform for configuration management                     | <https://github.com/ansible/ansible> ⭐ 70,564 \| 🐛 833 \| 🌐 Python \| 📅 2026-09-02       | 62k   |
-| Prometheus     | Monitoring system and time series database                           | <https://github.com/prometheus/prometheus> ⭐ 65,946 \| 🐛 888 \| 🌐 Go \| 📅 2026-09-02     | 55k   |
-| Grafana        | Open observability platform                                          | <https://github.com/grafana/grafana> ⭐ 76,571 \| 🐛 3,341 \| 🌐 TypeScript \| 📅 2026-09-03 | 64k   |
-| Apache Airflow | Platform to programmatically author, schedule, and monitor workflows | <https://github.com/apache/airflow> ⭐ 46,702 \| 🐛 2,091 \| 🌐 Python \| 📅 2026-09-02      | 36k   |
+| Kubernetes     | Container orchestration platform                                     | <https://github.com/kubernetes/kubernetes> ⭐ 126,330 \| 🐛 3,030 \| 🌐 Go \| 📅 2026-09-04  | 110k  |
+| Terraform      | Infrastructure as code software tool                                 | <https://github.com/hashicorp/terraform> ⭐ 49,612 \| 🐛 1,916 \| 🌐 Go \| 📅 2026-09-03     | 42k   |
+| Ansible        | Automation platform for configuration management                     | <https://github.com/ansible/ansible> ⭐ 70,579 \| 🐛 840 \| 🌐 Python \| 📅 2026-09-03       | 62k   |
+| Prometheus     | Monitoring system and time series database                           | <https://github.com/prometheus/prometheus> ⭐ 65,940 \| 🐛 889 \| 🌐 Go \| 📅 2026-09-04     | 55k   |
+| Grafana        | Open observability platform                                          | <https://github.com/grafana/grafana> ⭐ 76,571 \| 🐛 3,358 \| 🌐 TypeScript \| 📅 2026-09-04 | 64k   |
+| Apache Airflow | Platform to programmatically author, schedule, and monitor workflows | <https://github.com/apache/airflow> ⭐ 46,720 \| 🐛 2,116 \| 🌐 Python \| 📅 2026-09-03      | 36k   |
 
 ## Datasets
 
@@ -563,7 +563,7 @@ Seminal and trending AI papers, with repositories for collections.
 
 | Paper/Repo                 | Description                      | URL                                                                                                       |
 | -------------------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| ML Papers of the Week      | Weekly curated ML papers         | <https://github.com/dair-ai/ML-Papers-of-the-Week> ⭐ 13,144 \| 🐛 0 \| 📅 2026-08-31                      |
+| ML Papers of the Week      | Weekly curated ML papers         | <https://github.com/dair-ai/ML-Papers-of-the-Week> ⭐ 13,147 \| 🐛 0 \| 📅 2026-08-31                      |
 | Awesome AI Research Papers | Influential papers in AI domains | <https://github.com/awesomelistsio/awesome-ai-research-papers> ⭐ 68 \| 🐛 0 \| 🌐 Python \| 📅 2026-05-04 |
 | Landmark Papers in ML      | Key historical papers            | <https://github.com/daturkel/learning-papers> ⭐ 731 \| 🐛 1 \| 📅 2026-07-08                              |
 
@@ -577,4 +577,4 @@ MIT License
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
